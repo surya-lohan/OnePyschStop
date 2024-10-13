@@ -53,3 +53,12 @@ nav {
     background-repeat: no-repeat;
     scale: 1.2;
 }
+.blogs h1{
+    font-family: 'Itim';
+}
+.circle-3{
+    background-image: url('./assests/3.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    scale: 1.2;
+}
