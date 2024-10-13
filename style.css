@@ -41,3 +41,15 @@ nav {
 .dr-section p{
     font-family: 'Itim';
 }
+.container-2 button{
+    font-family: "Itim";
+}
+.container-2 p{
+    font-family: "Nanum Myeongjo";
+}
+.img-1{
+    background-image: url("./assests/2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    scale: 1.2;
+}
